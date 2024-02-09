@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mokaa</h1>
 <h3 align="center">Debugging the Universe, One Line at a Time</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moka&label=Profile%20views&color=0e75b6&style=flat" alt="moka" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moka" alt="moka" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/faexryv" target="blank"><img src="https://img.shields.io/twitter/follow/faexryv?logo=twitter&style=for-the-badge" alt="faexryv" /></a> </p>
-
 - 🔭 I’m currently working on **Mars tech**
 
 - 🌱 I’m currently learning **Leveling Up My Coding Skills**
@@ -42,9 +36,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kopiko"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kopiko" /></a><a href="https://ko-fi.com/ko-pi-ko"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-pi-ko" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moka&show_icons=true&locale=en&layout=compact" alt="moka" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moka&show_icons=true&locale=en" alt="moka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moka&" alt="moka" /></p>
