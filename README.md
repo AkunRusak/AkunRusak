@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/faexryv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faexryv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dwi prasetyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwi prasetyo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dwi-prasetyo-41b2b1285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwi prasetyo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14720474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14720474" height="30" width="40" /></a>
 <a href="https://fb.com/dwi prsty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dwi prsty" height="30" width="40" /></a>
 <a href="https://instagram.com/dwipras.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwipras.id" height="30" width="40" /></a>
