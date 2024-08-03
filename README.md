@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M0k4</h1>
-<h3 align="center">Debugging the Universe, One Line at a Time</h3>
+<h3 align="center">Debugging the Universe, One Line at a Time :)</h3>
 
 - 🔭 I’m currently working on **Mars tech**
 
