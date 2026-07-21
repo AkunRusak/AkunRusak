@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Mars Universe**
 
-- 👨‍💻 All of my projects are available at [dwipras.id](dwipras.id)
+- 👨‍💻 All of my projects are available at [dwipras.id](https://dwipras.id/)
 
 - 📝 I regularly write articles on [wikieee](wikieee)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akunrusak720@gmail.com**
 
-- 📄 Know about my experiences [dwipras.cloud](dwipras.cloud)
+- 📄 Know about my experiences [dwipras.cloud](https://dwipras.cloud/)
 
 - ⚡ Fun fact **I completed a coding challenge while traveling cross-country!**
 
