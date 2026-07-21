@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **akunrusak720@gmail.com**
 
-- 📄 Know about my experiences [dwipras.tech](dwipras.tech)
+- 📄 Know about my experiences [dwipras.cloud](dwipras.cloud)
 
 - ⚡ Fun fact **I completed a coding challenge while traveling cross-country!**
 
